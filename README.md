@@ -2,10 +2,6 @@
 My personal portfolio
 Welcome to my personal portfolio.
 
-# My Personal Portfolio
-
-Welcome to my personal portfolio.
-
 ## Unity HDRP Starter Office
 
 This project is a nighttime office environment created in Unity 2019 HDRP as part of the Making Beautiful Games Course.
